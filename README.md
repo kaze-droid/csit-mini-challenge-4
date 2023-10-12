@@ -24,13 +24,13 @@ Mighty Saver Rabbit awaits your return from this ghostly endeavor with bated bre
 
 **Fix the CD/CD Pipeline**
 
-- [ x ] [Setup](#development)
-- [ x ] [Rectify lint errors](#linting)
-- [ x  ] Fix `nearest_spooky_site()` function in [routers/standard.py](/app/routers/standard.py)
-- [ x ] [Correct `routers/standard.py` to ensure all test cases pass](#testing)
-- [ ] [Build and push the Docker image to DockerHub](#build-image)
-- [ ] [Deploy the application to a cloud service of your choice](#deployment)
-- [ ] [Submit!](https://go.gov.sg/csit-cloudminichallenge-validation-page)
+- [x] [Setup](#development)
+- [x] [Rectify lint errors](#linting)
+- [x] Fix `nearest_spooky_site()` function in [routers/standard.py](/app/routers/standard.py)
+- [x] [Correct `routers/standard.py` to ensure all test cases pass](#testing)
+- [x] [Build and push the Docker image to DockerHub](#build-image)
+- [x] [Deploy the application to a cloud service of your choice](#deployment)
+- [x] [Submit!](https://go.gov.sg/csit-cloudminichallenge-validation-page)
 
 ## Prerequisites
 
